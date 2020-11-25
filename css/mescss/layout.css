@@ -1,0 +1,50 @@
+html{
+    background-color: #FF;
+}
+
+
+h1,
+h2,
+h3{
+    text-align: center;
+}
+
+footer,
+header,
+.accueil{
+    position: relative;
+}
+
+
+img{
+    max-width: 375px;
+    height: auto;
+    align-items: center;
+}
+
+header,
+footer{
+    line-height: 91px;
+    background-color: #312F2F;
+    opacity: 95%;
+}
+
+.accueil{
+    background-color: #312F2F;
+    opacity: 95%;
+    line-height: 161px;
+    position: relative;
+    top: 30px;
+}
+
+header{
+    top: -20px;
+}
+
+footer{
+    top: 388px;
+}
+
+.accueil{
+    top: 150px;
+}

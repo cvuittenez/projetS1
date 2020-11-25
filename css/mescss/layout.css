@@ -1,5 +1,5 @@
 html{
-    background-color: #FF;
+    background-color: white;
 }
 
 
@@ -47,4 +47,13 @@ footer{
 
 .accueil{
     top: 150px;
+}
+
+body>p{
+    background: #312F2F;
+    width: 355px;
+    line-height: 21px;
+    position: relative;
+    left: 10px;
+    top: 200px;
 }

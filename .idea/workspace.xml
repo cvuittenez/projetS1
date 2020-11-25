@@ -20,10 +20,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b962d7e-c9da-4f46-982a-6e7943494250" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Accueil.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Premier Article.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/Accueil.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/layout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Bio Hackers.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/img/Bio Hackers.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Capture-d’écran-2019-04-25-à-12.00.05.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/img/Capture-d’écran-2019-04-25-à-12.00.05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Clavier.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/img/Clavier.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/DataCenter#1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/img/DataCenter#1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Forêt brûlée.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/img/Forêt brûlée.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Fotolia_48324323_L-1170x836.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/img/Fotolia_48324323_L-1170x836.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/I Robot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/img/I Robot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Image HTSDO#1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/img/Image HTSDO#1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Pollution#1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/img/Pollution#1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Solution#2.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/img/Solution#2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Solutions#1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/img/Solutions#1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Starbucks.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/img/Starbucks.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/datacenter.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/img/datacenter.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/datacenter.webp" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/img/datacenter.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo-mmi.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/img/logo-mmi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo_bleu.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/img/logo_bleu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/nom-image-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/img/nom-image-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/onde.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/img/onde.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/terre.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/img/terre.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/écolo-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/img/écolo-2.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +53,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,6 +71,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -53,6 +83,13 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\33766\PhpstormProjects\projetS1\css\mescss" />
+      <recent name="C:\Users\33766\PhpstormProjects\projetS1\img" />
+      <recent name="C:\Users\33766\PhpstormProjects\projetS1\css\mescss\img" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -67,8 +104,16 @@
       <workItem from="1606312849381" duration="2583000" />
       <workItem from="1606329668919" duration="265000" />
       <workItem from="1606329942363" duration="350000" />
-      <workItem from="1606330314851" duration="1924000" />
+      <workItem from="1606330314851" duration="3652000" />
     </task>
+    <task id="LOCAL-00001" summary="page d'accueil début">
+      <created>1606332303188</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606332303188</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,7 +131,15 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="page d'accueil début" />
+    <option name="LAST_COMMIT_MESSAGE" value="page d'accueil début" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="148" key="Vcs.Push.Dialog.v2" timestamp="1606332315410">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606332315410" />
     <state x="971" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606330267838">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

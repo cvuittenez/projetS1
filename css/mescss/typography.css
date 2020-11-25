@@ -6,10 +6,18 @@ h1{
 
 h2{
     font-size: 25px;
-    font-family: "Fira Sans";
+    font-family: Futura;
+    color: #2F8FE8;
+}
+
+h3{
+    font-family: Futura;
+    font-size: 20px;
     color: #2F8FE8;
 }
 
 p{
-
+    font-family: "Fira Sans";
+    font-size: 16px;
+    color: #8ADFFF;
 }

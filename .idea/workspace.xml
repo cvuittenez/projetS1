@@ -19,12 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b962d7e-c9da-4f46-982a-6e7943494250" name="Default Changelist" comment="Menu burger">
+    <list default="true" id="7b962d7e-c9da-4f46-982a-6e7943494250" name="Default Changelist" comment="Début Image de fond +&#10;Image de fond menu burger">
+      <change afterPath="$PROJECT_DIR$/css/mescss/img/Logo Mydrugs à refaire.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/img/Netflix-new-logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/Accueil.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deuxième Article.html" beforeDir="false" afterPath="$PROJECT_DIR$/Deuxième Article.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Premier Article.html" beforeDir="false" afterPath="$PROJECT_DIR$/Premier Article.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Troisième Article.html" beforeDir="false" afterPath="$PROJECT_DIR$/Troisième Article.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/layout.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +40,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -57,6 +59,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -92,7 +95,8 @@
       <workItem from="1606772273806" duration="575000" />
       <workItem from="1606829483771" duration="7519000" />
       <workItem from="1606846260082" duration="355000" />
-      <workItem from="1606913410385" duration="3050000" />
+      <workItem from="1606913410385" duration="3925000" />
+      <workItem from="1606920582265" duration="2895000" />
     </task>
     <task id="LOCAL-00001" summary="page d'accueil début">
       <created>1606332303188</created>
@@ -122,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606836847369</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Début Image de fond +&#10;Image de fond menu burger">
+      <created>1606916680434</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606916680434</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +156,8 @@
     <MESSAGE value="débuts + rangements" />
     <MESSAGE value="27/11/2020&#10;tweet inclus&#10;poursuite du css/html" />
     <MESSAGE value="Menu burger" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menu burger" />
+    <MESSAGE value="Début Image de fond +&#10;Image de fond menu burger" />
+    <option name="LAST_COMMIT_MESSAGE" value="Début Image de fond +&#10;Image de fond menu burger" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606671006463">

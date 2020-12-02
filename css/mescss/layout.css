@@ -6,6 +6,15 @@ html{
 
 .bg>img{
     position: fixed;
+    z-index: -100;
+    top: -10px;
+}
+
+body>p,
+.accueil,
+body>h2,
+body>h3{
+    z-index: -99;
 }
 
 h1,
@@ -90,17 +99,6 @@ header>h2{
 .tweet1,
 .tweet2,
 .tweet3{
-    padding: 5px;
-    margin-left: 5px;
-    margin-right: 5px;
-    margin-bottom: 50px;
-    background-color: #312F2F;
-    border: solid 5px #312F2F;
-    position: relative;
-    top: 475px;
-}
-
-p {
     padding: 5px;
     margin-left: 5px;
     margin-right: 5px;

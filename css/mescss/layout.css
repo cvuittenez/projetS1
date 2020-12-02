@@ -1,5 +1,4 @@
 html{
-    /*background-image: url("css/mescss/img/terre.jpg");*/
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-color: black;
@@ -37,7 +36,7 @@ header,
 .footer{
     min-width: 375px;
     position: absolute;
-    bottom: -950px        /*à changer !!!*/
+    bottom: -950px        /*à changer*/
 }
 
 .accueil{
@@ -83,6 +82,16 @@ header>h2{
     top: 475px;
 }
 
+header img{
+    position: absolute;
+    rotation: 90deg;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+                                        /*Menu*/
 .nav-toggle{
     width: 30px;
     height: 30px;
@@ -99,7 +108,7 @@ header>h2{
 .nav-toggle-bar::before,
 .nav-toggle-bar::after{
     content: "";
-    background-color: black;
+    background-color: #2F8FE8 ;
     width: 100%;
     height: 2px;
     position: absolute;
@@ -116,7 +125,7 @@ header>h2{
 }
 
 .menu{
-    background-color: blueviolet;
+    background-color: black;
     position: fixed;
     top: 0;
     left: 0;
@@ -128,6 +137,11 @@ header>h2{
     transform: translateX(100vw);
     transition:all 1s;
     z-index: 1;
+}
+
+.menu img{
+    position: absolute;
+    opacity: 30%;
 }
 
 .menu-open .menu{
@@ -156,13 +170,13 @@ header>h2{
 }
 .menu-open .nav-toggle-bar{
     transform: rotate(135deg);
-    background-color: white;
+    background-color: #2F8FE8;
 }
 
 .menu-open .nav-toggle-bar::after,
 .menu-open .nav-toggle-bar::before{
     transform: rotate(90deg);
-    background-color: white;
+    background-color: #2F8FE8;
     top: 0;
 }
 
@@ -174,3 +188,4 @@ header>h2{
 .menu-open .menu li:nth-child(n+1) {transition-delay: .3s}
 .menu-open .menu li:nth-child(n+2) {transition-delay: .35s}
 .menu-open .menu li:nth-child(n+3) {transition-delay: .4s}
+                                        /*Fin Menu*/

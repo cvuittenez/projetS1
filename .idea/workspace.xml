@@ -20,9 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b962d7e-c9da-4f46-982a-6e7943494250" name="Default Changelist" comment="Début Image de fond +&#10;Image de fond menu burger">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/Accueil.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deuxième Article.html" beforeDir="false" afterPath="$PROJECT_DIR$/Deuxième Article.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Premier Article.html" beforeDir="false" afterPath="$PROJECT_DIR$/Premier Article.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Troisième Article.html" beforeDir="false" afterPath="$PROJECT_DIR$/Troisième Article.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/layout.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +96,9 @@
       <workItem from="1606829483771" duration="7519000" />
       <workItem from="1606846260082" duration="355000" />
       <workItem from="1606913410385" duration="3925000" />
-      <workItem from="1606920582265" duration="3550000" />
+      <workItem from="1606920582265" duration="5084000" />
+      <workItem from="1606930372695" duration="865000" />
+      <workItem from="1606988105086" duration="1686000" />
     </task>
     <task id="LOCAL-00001" summary="page d'accueil début">
       <created>1606332303188</created>
@@ -137,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606923535933</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fix superpositions">
+      <created>1606924441939</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606924441939</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +174,8 @@
     <MESSAGE value="Menu burger" />
     <MESSAGE value="Début Image de fond +&#10;Image de fond menu burger" />
     <MESSAGE value="2/12/2020" />
-    <option name="LAST_COMMIT_MESSAGE" value="2/12/2020" />
+    <MESSAGE value="fix superpositions" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix superpositions" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606923954725">

@@ -52,7 +52,7 @@ header,
     bottom: -970px        /*à changer*/
 }
 
-article2.footer{
+article1.footer{
     min-width: 375px;
     position: absolute;
     bottom: -1970px        /*à changer*/
@@ -82,7 +82,8 @@ header{
     top: 200px;
 }
 
-body>p{
+body>p,
+paragraph{
     background: #312F2F;
     width: 345px;
     line-height: 21px;
@@ -96,17 +97,22 @@ header>h2{
     text-align: center;
 }
 
-.tweet1,
-.tweet2,
-.tweet3{
+.tweet,
+.paragraph{
     padding: 5px;
     margin-left: 5px;
     margin-right: 5px;
     margin-bottom: 50px;
     background-color: #312F2F;
     border: solid 5px #312F2F;
+    z-index: -99;
     position: relative;
-    top: 475px;
+    top: 25px;
+}
+
+.tweet{
+    position: relative;
+    top: 450px;
 }
 
 header img{

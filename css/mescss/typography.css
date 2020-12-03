@@ -28,3 +28,17 @@ a{
     font-family: Futura;
     font-size: 20px;
 }
+
+.nom p{
+    color: #2F8FE8;
+    line-height: 1rem;
+    width: 60px;
+}
+
+.nom{
+   margin: 10px;
+}
+
+.nom p:first-of-type{
+    font-weight: bold;
+}

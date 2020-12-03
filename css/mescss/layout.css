@@ -39,8 +39,7 @@ a{
     text-decoration: none;
 }
 
-header,
-.footer{
+header{
     line-height: 91px;
     background-color: #312F2F;
     opacity: 95%;
@@ -49,7 +48,11 @@ header,
 .footer{
     min-width: 375px;
     position: absolute;
-    bottom: -970px        /*à changer*/
+    bottom: -970px;        /*à changer*/
+    line-height: 40px;
+    background-color: #312F2F;
+    height: 120px;
+    border-bottom: solid 10px #312F2F;
 }
 
 article1.footer{
@@ -117,5 +120,49 @@ header>h2{
 
 header img{
     position: static;
-    top:10px;
+    top:-10px;
+}
+
+.logo{
+    position: relative;
+    top: 30px;
+    left: 10px;
+}
+
+.nom,
+.contact,
+.apropos,
+.projets{
+    display: inline-block;
+    position: relative;
+}
+
+.contact,
+.apropos,
+.projets{
+    margin: 10px;
+    top: -50px;
+}
+
+.mmi p{
+    color: #2F8FE8;
+    font-size: 12px;
+    width: 200px;
+    margin-left: 100px;
+    line-height: 14px;
+    position: relative;
+    bottom: 70px;
+    left: -7px;
+}
+
+.mmi img{
+    max-width: 50px;
+    height: auto;
+    position: relative;
+    top: -60px;
+}
+
+.mmi img,
+.mmi p{
+    display: inline-block;
 }

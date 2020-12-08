@@ -47,26 +47,9 @@ header{
 
 .footer{
     min-width: 375px;
-    position: absolute;
-    bottom: -970px;        /*à changer*/
     line-height: 40px;
     background-color: #312F2F;
-    height: 120px;
-    border-bottom: solid 10px #312F2F;
 }
-
-article1.footer{
-    min-width: 375px;
-    position: absolute;
-    bottom: -1970px        /*à changer*/
-}
-
-article3.footer{
-    min-width: 375px;
-    position: absolute;
-    bottom: -1970px        /*à changer*/
-}
-
 
 .accueil{
     background-color: #312F2F;
@@ -88,7 +71,7 @@ header{
 body>p,
 paragraph{
     background: #312F2F;
-    width: 345px;
+    width: 300px;
     line-height: 21px;
     position: relative;
     left: 10px;
@@ -111,6 +94,11 @@ header>h2{
     z-index: -99;
     position: relative;
     top: 25px;
+}
+
+.paragraph{
+    margin-bottom: 100px;
+    margin-top: 50px;
 }
 
 .tweet{

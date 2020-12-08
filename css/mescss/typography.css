@@ -11,9 +11,9 @@ h2{
 }
 
 h3{
-    font-family: Futura;
+    font-family: "Josefin Sans";
     font-size: 20px;
-    color: #2F8FE8;
+    color: #8ADFFF;
 }
 
 p{
@@ -27,6 +27,9 @@ a{
     color: #2F8FE8;
     font-family: Futura;
     font-size: 20px;
+}
+.input{
+    color: #8ADFFF;
 }
 
 .nom p{

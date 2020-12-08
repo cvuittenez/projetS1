@@ -8,12 +8,14 @@ h2{
     font-size: 25px;
     font-family: Futura;
     color: #2F8FE8;
+    line-height: 50px;
 }
 
 h3{
     font-family: "Josefin Sans";
     font-size: 20px;
     color: #8ADFFF;
+    line-height: 50px;
 }
 
 p{

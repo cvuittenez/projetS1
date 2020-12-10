@@ -20,8 +20,16 @@ h3{
 
 p{
     font-family: "Fira Sans";
-    font-size: 16px;
+    font-size: 17px;
     color: #8ADFFF;
+}
+
+.footer p{
+    font-size: 16px;
+}
+
+.mmi p{
+    font-size: 12px;
 }
 
 a{
@@ -30,6 +38,7 @@ a{
     font-family: Futura;
     font-size: 20px;
 }
+
 .input{
     color: #8ADFFF;
 }

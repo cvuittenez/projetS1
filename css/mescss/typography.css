@@ -32,11 +32,16 @@ p{
     font-size: 12px;
 }
 
-a{
+paragraph:first-of-type>a:first-of-type{
     text-decoration: none;
     color: #2F8FE8;
     font-family: Futura;
     font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #8ADFFF;
 }
 
 .input{
@@ -55,4 +60,18 @@ a{
 
 .nom p:first-of-type{
     font-weight: bold;
+}
+
+strong,
+a>strong{
+    font-weight: bold;
+}
+
+a{
+    display: inline-block;
+}
+
+nav ul li a{
+    font-family: Futura;
+    font-size: 25px;
 }

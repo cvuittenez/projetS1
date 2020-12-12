@@ -2,6 +2,7 @@ form{
     margin: 0;
     padding: 0;
 }
+
 .contact-form-text{
     display: block;
     width: 100%;
@@ -14,13 +15,16 @@ form{
     color: #D5F0F4;
     transition: 0.5s;
 }
+
 .contact-form-text:focus{
     box-shadow: 0 0 10px 4px #8ADFFF;
 }
+
 textarea.contact-form-text{
     resize: none;
     height: 120px;
 }
+
 .contact-form-btn{
     float: right;
     border: 0;

@@ -23,7 +23,6 @@ h3{
     text-align: center;
 }
 
-
 header,
 .accueil{
     position: relative;
@@ -50,16 +49,11 @@ header{
     opacity: 95%;
     line-height: 161px;
     position: relative;
-    top: 30px;
+    top: 230px;
 }
-
 
 header{
     top: -20px;
-}
-
-.accueil{
-    top: 200px;
 }
 
 body>p,
@@ -88,16 +82,12 @@ header>h2{
     z-index: -99;
     position: relative;
     top: 25px;
+    opacity: 95%;
 }
 
 .paragraph{
     margin-bottom: 100px;
     margin-top: 50px;
-}
-
-.tweet{
-    position: relative;
-    top: 450px;
 }
 
 header img{
@@ -149,7 +139,15 @@ header img{
     display: inline-block;
 }
 
-contact.footer{
-    position: absolute;
-    top: 770px;
+.footer{
+    background-color: #312F2F;
+}
+
+.tweet{
+    margin-bottom: 100px;
+}
+
+h1{
+    align-items: center;
+    margin-bottom: 700px;
 }

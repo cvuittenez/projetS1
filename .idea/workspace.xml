@@ -21,10 +21,15 @@
   <component name="ChangeListManager">
     <list default="true" id="7b962d7e-c9da-4f46-982a-6e7943494250" name="Default Changelist" comment="Début Image de fond +&#10;Image de fond menu burger">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deuxième Article.html" beforeDir="false" afterPath="$PROJECT_DIR$/Deuxième Article.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Premier Article.html" beforeDir="false" afterPath="$PROJECT_DIR$/Premier Article.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Troisième Article.html" beforeDir="false" afterPath="$PROJECT_DIR$/Troisième Article.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/contact.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +113,9 @@
       <workItem from="1607452338860" duration="736000" />
       <workItem from="1607584799621" duration="1309000" />
       <workItem from="1607586709544" duration="883000" />
-      <workItem from="1607614298868" duration="393000" />
+      <workItem from="1607614298868" duration="830000" />
+      <workItem from="1607699451929" duration="415000" />
+      <workItem from="1607782925373" duration="5867000" />
     </task>
     <task id="LOCAL-00001" summary="page d'accueil début">
       <created>1606332303188</created>
@@ -201,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607586568120</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="10/12/2020">
+      <created>1607614905195</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1607614905195</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,7 +247,8 @@
     <MESSAGE value="fin de mise en place des articles" />
     <MESSAGE value="test" />
     <MESSAGE value="déplacement de l'accueil vers index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="déplacement de l'accueil vers index.html" />
+    <MESSAGE value="10/12/2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="10/12/2020" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-2" y="78" key="#Deployment" timestamp="1607587186974">

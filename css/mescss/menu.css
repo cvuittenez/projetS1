@@ -78,6 +78,7 @@
 .menu-open{
     overflow: hidden;
 }
+
 .menu-open .nav-toggle-bar{
     transform: rotate(135deg);
     background-color: #2F8FE8;

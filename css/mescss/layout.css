@@ -2,6 +2,7 @@ html{
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-color: black;
+    overflow-x: hidden;
 }
 
 .bg>img{
@@ -101,47 +102,6 @@ header img{
     left: 10px;
 }
 
-.nom,
-.contact,
-.apropos,
-.projets{
-    display: inline-block;
-    position: relative;
-}
-
-.contact,
-.apropos,
-.projets{
-    margin: 10px;
-    top: -50px;
-}
-
-.mmi p{
-    color: #2F8FE8;
-    font-size: 12px;
-    width: 200px;
-    margin-left: 100px;
-    line-height: 14px;
-    position: relative;
-    bottom: 70px;
-    left: -7px;
-}
-
-.mmi img{
-    max-width: 50px;
-    height: auto;
-    position: relative;
-    top: -60px;
-}
-
-.mmi img,
-.mmi p{
-    display: inline-block;
-}
-
-.footer{
-    background-color: #312F2F;
-}
 
 .tweet{
     margin-bottom: 100px;

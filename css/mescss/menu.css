@@ -74,6 +74,9 @@
 .menu a{
     color: #2F8FE8;
 }
+.menu li a:hover{
+    color: #8ADFFF;
+}
 
 .menu-open{
     overflow: hidden;

@@ -5,15 +5,18 @@ form{
 
 .contact-form-text{
     display: block;
-    width: 100%;
+    width: 95%;
     box-sizing: border-box;
-    margin: 16px 0;
+    margin: 9px;
     border: 0;
     background-color: #312F2F;
     padding: 20px 40px;
     outline: none;
-    color: #D5F0F4;
+    color: #8ADFFF;
     transition: 0.5s;
+    opacity: 95%;
+    z-index: -101;
+
 }
 
 .contact-form-text:focus{
@@ -37,4 +40,13 @@ textarea.contact-form-text{
 .contact-section h2{
     background-color: #312F2F;
     line-height: 60px;
+}
+
+.contact-section{
+    margin-bottom: 100px;
+}
+
+header,
+.footer{
+    width: 100%;
 }

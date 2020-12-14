@@ -115,24 +115,6 @@ h1{
     margin-bottom: 700px;
 }
 
-.reseau h2,
-.reseau ul{
-    background-color: #312F2F;
-    opacity: 95%;
-}
-
-.reseau ul{
-    text-align: center;
-    list-style: none;
-    line-height: 30px;
-    opacity: 95%;
-}
-
-.reseau{
-    margin-bottom: 70px;
-    margin-top: 50px;
-}
-
-.reseau ul li a{
-    font-family: "Josefin Sans";
+li.carousel-item a{
+    margin: 20px;
 }

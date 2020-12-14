@@ -1,0 +1,48 @@
+.carousel {
+    background-color: #312F2F;
+    color: #8ADFFF;
+    padding: 20px 0;
+    margin-bottom: 70px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.carousel img{
+    width: auto;
+    max-height: 220px;
+}
+
+h2{
+    background-color: #312F2F;
+}
+
+ul.carousel-items{
+    list-style: none;
+    padding: 20px 0;
+    display: flex;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+}
+
+li.carousel-item{
+    flex: 1 0 220px;
+    scroll-snap-align: center;
+}
+
+::-webkit-scrollbar-track{
+    background-color: #8ADFFF;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: #8ADFFF;
+}
+
+li.carousel-item a{
+    margin: 20px;
+    font-family: "Josefin Sans";
+    width: 120px;
+    text-align: center;
+    font-size: 18px;
+}

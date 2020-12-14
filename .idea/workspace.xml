@@ -26,7 +26,6 @@
       <change beforePath="$PROJECT_DIR$/Deuxième Article.html" beforeDir="false" afterPath="$PROJECT_DIR$/Deuxième Article.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Premier Article.html" beforeDir="false" afterPath="$PROJECT_DIR$/Premier Article.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Troisième Article.html" beforeDir="false" afterPath="$PROJECT_DIR$/Troisième Article.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/layout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,7 +118,8 @@
       <workItem from="1607875522594" duration="787000" />
       <workItem from="1607877725187" duration="3037000" />
       <workItem from="1607880964505" duration="178000" />
-      <workItem from="1607941650732" duration="2136000" />
+      <workItem from="1607941650732" duration="2313000" />
+      <workItem from="1607957062435" duration="3140000" />
     </task>
     <task id="LOCAL-00001" summary="page d'accueil début">
       <created>1606332303188</created>
@@ -247,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607942144742</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="fix footer...">
+      <created>1607943964463</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1607943964463</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,7 +291,8 @@
     <MESSAGE value="." />
     <MESSAGE value="fix footer" />
     <MESSAGE value="fix liens footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix liens footer" />
+    <MESSAGE value="fix footer..." />
+    <option name="LAST_COMMIT_MESSAGE" value="fix footer..." />
   </component>
   <component name="WindowStateProjectService">
     <state x="-2" y="78" key="#Deployment" timestamp="1607587186974">

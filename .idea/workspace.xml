@@ -20,8 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b962d7e-c9da-4f46-982a-6e7943494250" name="Default Changelist" comment="Début Image de fond +&#10;Image de fond menu burger">
-      <change afterPath="$PROJECT_DIR$/AutresProjets.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutresProjets.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutresProjets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deuxième Article.html" beforeDir="false" afterPath="$PROJECT_DIR$/Deuxième Article.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Premier Article.html" beforeDir="false" afterPath="$PROJECT_DIR$/Premier Article.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Troisième Article.html" beforeDir="false" afterPath="$PROJECT_DIR$/Troisième Article.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/layout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -36,8 +40,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -115,7 +119,7 @@
       <workItem from="1607875522594" duration="787000" />
       <workItem from="1607877725187" duration="3037000" />
       <workItem from="1607880964505" duration="178000" />
-      <workItem from="1607941650732" duration="335000" />
+      <workItem from="1607941650732" duration="2136000" />
     </task>
     <task id="LOCAL-00001" summary="page d'accueil début">
       <created>1606332303188</created>
@@ -236,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607879901731</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="fix liens footer">
+      <created>1607942144742</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1607942144742</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +283,8 @@
     <MESSAGE value="mise en gras + liens hypertextes" />
     <MESSAGE value="." />
     <MESSAGE value="fix footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix footer" />
+    <MESSAGE value="fix liens footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix liens footer" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-2" y="78" key="#Deployment" timestamp="1607587186974">
